@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@lubabaaunjum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lubabaaunjum" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lubaba aunjum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lubaba aunjum" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lubaba-aunjum-99613722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lubaba-aunjum-99613722a" height="30" width="40" /></a>
 <a href="https://fb.com/aunjum.lubaba.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aunjum.lubaba.1" height="30" width="40" /></a>
 <a href="https://instagram.com/velvet_canyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="velvet_canyn" height="30" width="40" /></a>
 </p>
