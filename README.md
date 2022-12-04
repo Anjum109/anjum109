@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lubaba Aunjum</h1>
 <h3 align="center">A passionate frontend developer from Sylhet.</h3>
  <img align="center" width="400"
-        src="https://www.shutterstock.com/image-vector/modern-young-woman-sitting-on-260nw-1962752086.jpg" alt="Coding">
+        src="https://img.freepik.com/free-vector/young-woman-with-laptop-media-content-icons-girl-use-social-networks-application-websites-play-games-watch-movies-weather-horoscope-exchange-money-study-online_575670-569.jpg?w=996&t=st=1670178598~exp=1670179198~hmac=92081c8b90d526b07daaa43371d2bb93e28495e2210049867ce997465a1ac826" alt="Coding">
 
 - 🌱 I’m currently learning **Node.js**
 
