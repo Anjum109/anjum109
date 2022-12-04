@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lubaba Aunjum</h1>
-<h3 align="center">A passionate frontend developer from Sylhet.</h3>
- <img align="center" width="400"
+<h3 align="center">A passionate frontend developer from Habigonj,Sylhet.</h3>
+ <img align="right" width="400"
+4
         src="https://img.freepik.com/free-vector/young-woman-with-laptop-media-content-icons-girl-use-social-networks-application-websites-play-games-watch-movies-weather-horoscope-exchange-money-study-online_575670-569.jpg?w=996&t=st=1670178598~exp=1670179198~hmac=92081c8b90d526b07daaa43371d2bb93e28495e2210049867ce997465a1ac826" alt="Coding">
-
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [...](...)
@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@lubabaaunjum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lubabaaunjum" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lubaba-aunjum-99613722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lubaba-aunjum-99613722a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aunjum.lubaba.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aunjum.lubaba.1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lubaba aunjum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lubaba aunjum" height="30" width="40" /></a>
+<a href="https://fb.com/aunjum.lubaba.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aunjum.lubaba.1" height="30" width="40" /></a>
 <a href="https://instagram.com/velvet_canyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="velvet_canyn" height="30" width="40" /></a>
 </p>
 
