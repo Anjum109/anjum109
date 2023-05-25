@@ -3,7 +3,7 @@
  <img align="right" width="400"
 4
         src="https://img.freepik.com/free-vector/young-woman-with-laptop-media-content-icons-girl-use-social-networks-application-websites-play-games-watch-movies-weather-horoscope-exchange-money-study-online_575670-569.jpg?w=996&t=st=1670178598~exp=1670179198~hmac=92081c8b90d526b07daaa43371d2bb93e28495e2210049867ce997465a1ac826" alt="Coding">
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **next.js**
 
 - 👨‍💻 All of my projects are available at [https://anjumsportfolio-b194a.web.app/](https://anjumsportfolio-b194a.web.app/)
 
